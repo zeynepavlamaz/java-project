@@ -5,31 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04953893-e1a9-4899-b5f7-6569e6a1b718" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Characters/Archer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Characters/Armor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Characters/GameCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Characters/Inventory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Characters/Knigth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Characters/Samurai.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Location/BattleLocation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Location/Bear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Location/Cave.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Location/Dungeon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Location/Forest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Location/Location.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Location/Monster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Location/NormalLocation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Location/River.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Location/SafeHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Location/Snake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Location/ToolStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Location/Vampire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Location/Zombie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/Items.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tools/Weapon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaceraOyunu/src/Armor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaceraOyunu/src/BattleLocation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaceraOyunu/src/Bear.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2WqglNvDnK0f9tDpiNW7xGRP5rL" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -57,15 +36,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "onboarding.tips.debug.path": "/Users/zeynepavlamaz/Desktop/PatikaPlus-Java/AdventureGame/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/zeynepavlamaz/Desktop/PatikaPlus-Java/AdventureGame/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main.Main" />
